@@ -4,7 +4,7 @@ KELOMPOK 8 API KELAS A
 3. F55120030 - HESTI PUSPITASARI
 
 LINK API YANG DIGUNAKAN: https://dash.valorant-api.com/
-LINK PROJETCT GITHUB:
+LINK PROJETCT GITHUB: https://github.com/kuramocheez/kelompok8-api-apps.git
 LINK DEMO:
 
 Web ini dibangun menggunakan: PHP Native, Bootstrap5, dan MYSQL.
