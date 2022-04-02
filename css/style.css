@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(29, 29, 29);
+    color: #fff;
+    font-family: 'roboto';
+}
+.kartu{
+    border: 1px solid black;
+}
+.menu li{
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+}
+.menu li a:hover{
+    color: wheat;
+}
+
+.card{
+    color:black;
+}

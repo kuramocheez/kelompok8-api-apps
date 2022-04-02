@@ -1,0 +1,19 @@
+{
+    "member" : [
+        {
+            "nim" : "F55120018",
+            "name" : "Khairul Insan Karim",
+            "picture" : "img/rul.jpg"
+        },
+        {
+            "nim" : "F55120023",
+            "name" : "Tiara Aurellya Mongi",
+            "picture" : "img/Tiara.jpeg"
+        },
+        {
+            "nim" : "F55120030",
+            "name" : "Hesti Puspitasari",
+            "picture" : "img/hesti.jpg"
+        }
+    ]
+}

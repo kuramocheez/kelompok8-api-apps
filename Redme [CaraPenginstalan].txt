@@ -1,0 +1,44 @@
+KELOMPOK 8 API KELAS A
+1. F55120018 - KHAIRUL INSAN KARIM
+2. F55120023 - TIARA AURELLYA MONGI
+3. F55120030 - HESTI PUSPITASARI
+
+LINK API YANG DIGUNAKAN: https://dash.valorant-api.com/
+LINK PROJETCT GITHUB:
+LINK DEMO:
+
+Web ini dibangun menggunakan: PHP Native, Bootstrap5, dan MYSQL.
+
+Fitur:
+1. Login User
+2. Menampilkan data API
+
+REQUIREMENT:
+XAMPP (Apache & MySQL).
+Koneksi Internet.
+
+User Login:
+User 1
+username: khairul26 
+password: khairulinsankarim
+
+User2
+username: tiaraaurellya
+password: tiaratiara
+
+User3
+username: hestipuspita
+password: hestihesti
+
+CARA MENGGUNAKAN:
+File RAR
+1. Copy dan Extract file RAR pada direktori xampp/htdoc.
+2. Nyalakan Apache dan MySQL pada XAMPP.
+3. Buat database dengan nama kelompok8_app pada MySQL, kemudian import database yang terdapat pada folder db.
+4. buka tab baru pada web browser, ketikkan localhost/kelompok8.
+
+Github
+1. Clone dan simpan pada direktori xampp/htdoc.
+2. Nyalakan Apache dan MySQL pada XAMPP.
+3. Buat database dengan nama kelompok8_app pada MySQL, kemudian import database yang terdapat pada folder db.
+4. buka tab baru pada web browser, ketikkan localhost/kelompok8.
